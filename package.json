@@ -1,0 +1,7 @@
+{
+  "name": "promise-catches-errors",
+  "dependencies": {
+    "@google/maps": "0.4.5",
+    "csv-stream-transform": "0.0.1"
+  }
+}
